@@ -2,7 +2,6 @@ import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Link from 'next/link'
 import Head from 'next/head'
-import { Cloudinary } from 'cloudinary-core'
 
 import Container from '../../components/container'
 import PostBody from '../../components/post-body'
@@ -13,11 +12,8 @@ import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import { SITE_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
+import cloudinary from '../../lib/cloudinary'
 import PostGallery from '../../components/post-gallery'
-
-var cloudinary = new Cloudinary({
-  cloud_name: process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME,
-})
 
 export default function Post({ post, preview }) {
   const router = useRouter()
