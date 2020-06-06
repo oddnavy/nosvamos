@@ -16,6 +16,7 @@ export default function CoverImage({ title, src, slug }) {
       alt={title}
       width="1280"
       height="960"
+      loading="lazy"
     >
       <Transformation crop="fill" width="1280" height="960" gravity="faces" />
     </Image>

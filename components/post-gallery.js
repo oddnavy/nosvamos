@@ -13,6 +13,7 @@ export default function PostGallery({ images }) {
             responsive
             publicId={`${process.env.NEXT_PUBLIC_CLOUDINARY_FOLDER}/${image}`}
             sizes="100vw"
+            loading="lazy"
           >
             <Transformation
               crop="fit"
