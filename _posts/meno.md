@@ -18,4 +18,5 @@ location:
 coverImage: DSCF8464.jpg
 ogImage: DSCF8464.jpg
 ---
+
 Gili Meno, of the Gili Islands, was the most beautiful of all the islands we visited on our trip and it was amazing to spend some time diving relaxing here to chill out after such a busy time travelling.

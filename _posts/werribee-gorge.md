@@ -17,6 +17,7 @@ location:
 coverImage: DSCF9095-e1373795102655.jpg
 ogImage: DSCF9095-e1373795102655.jpg
 ---
+
 We set out bright and early on a sunny Sunday morning for our next trip out into the Australian bush, with our housemates Hannah and Sebastian. Our first destination was Werribee Gorge, it was beautiful, deserted and very impressive. We walked along the river for a few hours and then cut up one of sides of the gorge and took in some impressive views from the top. It was only about an hour from the city north but felt quite remote considering.
 
 It was a great start to the day and built up our appetites suitably for a fantastic homemade pizza lunch at Hannah's parent's farm, including beautiful prawns and delicious salami. The farm is near Ballan, on the farm her parents fatten up Wagyu (Japanese fancy beef) cows which are all the rage of over here.

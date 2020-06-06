@@ -1,7 +1,7 @@
 ---
 title: Ubud cont.
 format: gallery
-date: "2013-03-10"
+date: '2013-03-10'
 author: David
 images:
   - DSCF8372.jpg
@@ -9,9 +9,9 @@ images:
   - DSCF8395.jpg
   - DSCF8434-e1364427349387.jpg
 location:
-  title: ""
-  lat: ""
-  lng: ""
+  title: ''
+  lat: ''
+  lng: ''
 coverImage: DSCF8372.jpg
 ogImage: DSCF8372.jpg
 ---

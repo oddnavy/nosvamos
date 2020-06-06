@@ -12,4 +12,5 @@ location:
 coverImage: DSCF0799.jpg
 ogImage: DSCF0799.jpg
 ---
+
 Beautiful view does not accurately represent the terrifying journey.

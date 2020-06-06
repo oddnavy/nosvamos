@@ -18,4 +18,5 @@ location:
 coverImage: DSCF4732-e1359285914615.jpg
 ogImage: DSCF4732-e1359285914615.jpg
 ---
+
 A very white pagoda we stopped off at on the way to Chiang Mai.

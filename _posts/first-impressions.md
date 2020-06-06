@@ -21,6 +21,7 @@ location:
 coverImage: DSCF5090-1.jpg
 ogImage: DSCF5090-1.jpg
 ---
+
 We decided that our first stop on our way down through Thailand would be Ko Tao as everyone we have spoked to had rated it particularly highly.
 
 Our journey to Ko Tao was one of the more interesting so far. The evening before we asked our hostel to book our overnight VIP (not quite as VIP as our previous bus from Chang Mai) bus ticket to get us to Chumphon so we would be able to get the boat over to Ko Tao. First hiccup was that our taxi driver took us to Bangkok north station as opposed to south. He then drove recklessly across the city to get us to the correct station where we just about made it to the station in time. Then we got there and struggled to find the platform. We got on the Ranong bus as stated on our ticket which the lady at the hostel had assured us would be ok despite us wanting to go to Chumphon. Along the way we stopped at various stations for the driver to check in and one break stop.

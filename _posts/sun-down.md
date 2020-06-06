@@ -12,4 +12,5 @@ location:
 coverImage: 2013-01-27-17.55.16.jpg
 ogImage: 2013-01-27-17.55.16.jpg
 ---
+
 The end of another day in paradise.

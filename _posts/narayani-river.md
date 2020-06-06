@@ -15,4 +15,3 @@ location:
 coverImage: DSCF1066.jpg
 ogImage: DSCF1066.jpg
 ---
-

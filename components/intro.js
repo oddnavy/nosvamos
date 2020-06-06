@@ -1,4 +1,4 @@
-import { SITE_NAME } from "../lib/constants";
+import { SITE_NAME } from '../lib/constants'
 
 export default function Intro() {
   return (
@@ -11,5 +11,5 @@ export default function Intro() {
         fascinating sights, sounds, and smells in the world. With love Darman x
       </h2>
     </section>
-  );
+  )
 }

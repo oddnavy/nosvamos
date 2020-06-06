@@ -21,6 +21,7 @@ location:
 coverImage: DSCF4393.jpg
 ogImage: DSCF4393.jpg
 ---
+
 _So we know everyone loved our regular elephant updates and may have been wondering when the next post would be. So back by popular demand, elephant snaps!_
 
 In Louang Prabang after some debate we decided to go on a second elephant ride, we were swayed by the fact that this time it involved elephant bathing. It wasn't so much as elephant bathing, more going into deep water sat on an elephant but it was a lot of fun. I did however do my usual tearful panic before boarding the elephant, but as you can see I soon got used to the idea and even enjoyed myself a little bit. We fed our elephant bananas and sugar cane as a thank you afterwards and he and Pike became great friends.

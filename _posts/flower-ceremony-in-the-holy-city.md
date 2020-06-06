@@ -12,4 +12,5 @@ location:
 coverImage: DSCF1354.jpg
 ogImage: DSCF1354.jpg
 ---
+
 Local man lighting wishing candles to be placed into the Ganges.

@@ -15,4 +15,5 @@ location:
 coverImage: DSCF5064-1.jpg
 ogImage: DSCF5064-1.jpg
 ---
+
 Dave and Adam having the time of their lives.

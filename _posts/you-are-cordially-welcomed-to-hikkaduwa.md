@@ -13,4 +13,5 @@ location:
 coverImage: DSCF2397.jpg
 ogImage: DSCF2397.jpg
 ---
+
 To finish off our time on the teardrop island of Sri Lanka we headed down to the south for some beach and surf time. Hikkaduwa was as friendly and beautiful as we'd hoped, unfortunately it rained for the majority of our stay but we used the time to catch up on some rest and save some pennies.

@@ -9,4 +9,5 @@ location:
   lat: '27.1766701'
   lng: '78.00807450000002'
 ---
+
 We went to see a Bollywood film and it was excellent.  Cheesy songs, a love triangle and an introduction to the India phenomenon of  Hinglish.

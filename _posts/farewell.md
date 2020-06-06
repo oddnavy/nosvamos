@@ -21,6 +21,7 @@ location:
 coverImage: 2012-11-22-09.24.02.jpg
 ogImage: 2012-11-22-09.24.02.jpg
 ---
+
 Delhi was also the location in which we were forced to say farewell to our brilliant tour group, excellent leader Anant and Gary the Grapefruit. It was an action packed15 days and it was a pleasure to spend it with this bunch.
 
 We didn't manage to take many snaps of the gang, but here are a few.

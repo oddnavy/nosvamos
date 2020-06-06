@@ -30,11 +30,12 @@ location:
 coverImage: DSCF6301-e1361592701340.jpg
 ogImage: DSCF6301-e1361592701340.jpg
 ---
+
 **A Walk in the Park**
 
 Whilst in Melaka our main pastime was walking. Near our hostel was the one of the oldest cemetery's in the world,  which had amazing views of the city and we met a very large lizard living in a house within a deserted model village.
 
-**** Eating **Melaka**
+\***\* Eating **Melaka\*\*
 
 We pottered through the markets, watching the hawkers prepare various dishes and tasting the local cuisine including:
 

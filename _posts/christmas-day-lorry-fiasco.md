@@ -12,4 +12,3 @@ location:
 coverImage: DSCF3081.jpg
 ogImage: DSCF3081.jpg
 ---
-

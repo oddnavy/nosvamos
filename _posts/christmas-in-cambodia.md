@@ -16,6 +16,7 @@ location:
 coverImage: DSCF30401.jpg
 ogImage: DSCF30401.jpg
 ---
+
 _A belated Merry Christmas to everyone!_
 
 Christmas day this year was an unusual one with a lengthy bus journey from Siem Reap to Phnom Penh. We added some excitement with cricket and cockroach lunch snacks. A little bus/lorry drama kept us on our toes towards the end of the journey! Dinner was a local Cambodian dish called Lok Lak followed by cocktails on a rooftop bar.

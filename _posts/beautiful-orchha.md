@@ -16,7 +16,8 @@ location:
 coverImage: DSCF1411.jpg
 ogImage: DSCF1411.jpg
 ---
-Orchha, pronounced _Orr-CHA _is home to a huge palace that was only used for one night, officially. It was given as a gift by the local Maharaja to the visiting Mughal emperor who stayed in it for the one night. He died shortly after leaving and so never returned, according to local tradition once the a gift is given it cannot be retrieved and so it sat empty for many years afterwards.
+
+Orchha, pronounced \_Orr-CHA _is home to a huge palace that was only used for one night, officially. It was given as a gift by the local Maharaja to the visiting Mughal emperor who stayed in it for the one night. He died shortly after leaving and so never returned, according to local tradition once the a gift is given it cannot be retrieved and so it sat empty for many years afterwards.
 
 During our stay in Orchha we lucky enough to be upgraded from our lovely tent near the riverside to the opulent Maharani suite within the palace itself which was a pleasant surprise.
 

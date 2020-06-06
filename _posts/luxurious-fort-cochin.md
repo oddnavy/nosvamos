@@ -15,6 +15,7 @@ location:
 coverImage: DSCF1693.jpg
 ogImage: DSCF1693.jpg
 ---
+
 After a very pleasant flight with Indigo (we highly recommend this airline) on a brand new plane, we arrived in Cochin. We then cruised over to Fort Cochin in an awesome [white Ambassador](http://www.flickr.com/photos/conchwillow/3353723038/lightbox/) by our driver Anthony. There was a distinct lack of cows on the surprisingly well-surfaced road which took some adjusting to.
 
 During our stay in this markedly different part of India with strong Christian influences and filled with European style charming Caf_é_s we pottered around the small town and took in the sights including the traditional Chinese fishing nets and a local game of cricket.

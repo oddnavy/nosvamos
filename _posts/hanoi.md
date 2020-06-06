@@ -31,6 +31,7 @@ location:
 coverImage: DSCF3945.jpg
 ogImage: DSCF3945.jpg
 ---
+
 _Carmans favourite city_
 
 This is the capital of Vietnam and it was just how we imagined it. We loved the busy bustling markets full of locals with fantastic street foods, sweet and savoury. Live fish and sharks. We enjoyed [weasel shit coffee](http://en.wikipedia.org/wiki/Kopi_Luwak) to warm up in the surprising cool climate and buying real North Face jackets which failed quality control tests for £20. We also went to the Ho Chi Min mausoleum which was an unusual experience but we learnt a lot about his life.

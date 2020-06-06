@@ -18,6 +18,7 @@ location:
 coverImage: DSCF5648.jpg
 ogImage: DSCF5648.jpg
 ---
+
 Our first destination in Malaysia, Langkawi. We would love to tell you lots about it, how much we explored and saw lots of sites, but the reality is we just took a couple of days to relax and have a think about how to spend our time in Malaysia.
 
 We stayed in an amazing guesthouse called Soluna, near the main beach of Cenang. We went for walks along the beaches and made some friends at the hostel who we went for drinks with at a pretty cool bar on the beach.

@@ -1,7 +1,7 @@
 ---
 title: Underground Cinema presents Snow
 format: gallery
-date: "2013-05-18"
+date: '2013-05-18'
 author: David
 images:
   - DSCF8994.jpg
@@ -17,9 +17,9 @@ images:
   - DSCF9051.jpg
   - DSCF9054.jpg
 location:
-  title: "Collingwood, Australia"
-  lat: "-37.8031231"
-  lng: "144.98365139999999"
+  title: 'Collingwood, Australia'
+  lat: '-37.8031231'
+  lng: '144.98365139999999'
 coverImage: DSCF8994.jpg
 ogImage: DSCF8994.jpg
 ---

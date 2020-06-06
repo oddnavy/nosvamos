@@ -21,6 +21,7 @@ location:
 coverImage: DSCF5327-e1360295018718.jpg
 ogImage: DSCF5327-e1360295018718.jpg
 ---
+
 _Beaches only accessible by boat._
 
 From Ao Nang we ventured out on kayaks around the dramatic limestone cliffs along the coastline, exploring small caves  and the four beaches of Railay. Here we had yummy noodle lunch from one of the restaurant boats.

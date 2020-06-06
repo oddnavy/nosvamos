@@ -1,5 +1,5 @@
-import Link from "next/link";
-import Container from "./container";
+import Link from 'next/link'
+import Container from './container'
 
 export default function Pagination({ prevPage, nextPage }) {
   return (
@@ -9,8 +9,8 @@ export default function Pagination({ prevPage, nextPage }) {
           <li>
             {prevPage ? (
               <Link
-                href={prevPage === 1 ? "/" : "/page/[number]"}
-                as={prevPage === 1 ? "/" : `/page/${prevPage}`}
+                href={prevPage === 1 ? '/' : '/page/[number]'}
+                as={prevPage === 1 ? '/' : `/page/${prevPage}`}
               >
                 <a className="block py-4 group transition-all duration-100 hover:text-orange-600">
                   <span className="inline-block ml-1 transition-transform duration-100 transform group-hover:-translate-x-1">
@@ -45,5 +45,5 @@ export default function Pagination({ prevPage, nextPage }) {
         </ul>
       </Container>
     </div>
-  );
+  )
 }

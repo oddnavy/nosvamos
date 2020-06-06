@@ -16,6 +16,7 @@ location:
 coverImage: S0090567.jpg
 ogImage: S0090567.jpg
 ---
+
 Today we said our goodbyes and set off on our world tour, well, a snap shot of the world.
 
 The plan

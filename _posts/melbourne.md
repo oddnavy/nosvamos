@@ -21,6 +21,7 @@ location:
 coverImage: DSCF8720.jpg
 ogImage: DSCF8720.jpg
 ---
+
 So we have been in Melbourne for a whole month already.
 
 We had a unsettled start, due to lack of organisation on the accommodation front.

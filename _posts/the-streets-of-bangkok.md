@@ -28,6 +28,7 @@ location:
 coverImage: DSCF4928.jpg
 ogImage: DSCF4928.jpg
 ---
+
 After 30 days on the road and 4 very different countries we arrived back in Bangkok and had to say farewell to the final few fantastic people. It was really sad to say goodbye to the group after a month together but we celebrated well and Carman embarrassed herself by banging out some karaoke classics.
 
 When we got back to Bangkok we were lucky enough to cross paths with Adam and Mel, which was excellent. We actually made it to Ko San Road this time and had some buckets at a small bar on the side of the road but we certainly will not be rushing back.

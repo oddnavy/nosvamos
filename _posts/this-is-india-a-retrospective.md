@@ -21,6 +21,7 @@ location:
 coverImage: DSCF9363.jpg
 ogImage: DSCF9363.jpg
 ---
+
 And so comes the end of our first month on the road. It has been an extremely varied and exciting experience. We have met some great people, been to some awesome places and eaten some of India's best loved foods.
 
 **Dave's Highlights**

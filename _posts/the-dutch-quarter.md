@@ -21,6 +21,7 @@ location:
 coverImage: DSCF6207.jpg
 ogImage: DSCF6207.jpg
 ---
+
 In Melaka, the Dutch square and surrounding areas harbour many, many museums, separated into buildings which each focus on a chosen subject. The choice is endless if you fancy a museumy day. Instead, we headed to the old trains and aeroplanes to play.
 
 The old town is very quaint, fairly touristy but more of an Asian destination.

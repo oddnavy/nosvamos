@@ -21,6 +21,7 @@ location:
 coverImage: DSCF1781.jpg
 ogImage: DSCF1781.jpg
 ---
+
 Fortunately we met a lovely French couple in Fort Cochin who advised on how to spend our time in Alleppey. We had previously wanted to take part in the Houseboat experience which the backwaters are renowned for. However we read about how bad for the environment the big diesel boats are and how much traffic there is on the large canals due to the huge number of boats travelling up and down them. In light of this we took the advice of the couple and stayed in a quaint [homestay]([http://www.tripadvisor.in/Hotel_Review-g608471-d1887845-Reviews-Malayalam_Lake_Resort_Homestay-Alappuzha_Kerala.html) right on the waters edge of a small lake and took an amazing day trip on a small traditional canoe.
 
 Because of the size of the boat we were able to explore the smaller backwaters and see the local villages the larger boats can't reach. A group of ladies working on one of the farms were excited to see us in the hope of getting some chocolate which regrettably we weren't able to provide. The highlight of the day was visiting our guides home where his lovely wife cooked us a fantastic authentic Keralan fish Thali on a banana leaf.

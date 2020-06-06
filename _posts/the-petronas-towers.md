@@ -12,4 +12,5 @@ location:
 coverImage: DSCF6949.jpg
 ogImage: DSCF6949.jpg
 ---
+
 The Petronas Towers by night as viewed from the Skybar at the Traders Hotel

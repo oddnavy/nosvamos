@@ -1,5 +1,5 @@
-import Link from "next/link";
-import Container from "./container";
+import Link from 'next/link'
+import Container from './container'
 
 export default function Header() {
   return (
@@ -11,5 +11,5 @@ export default function Header() {
         .
       </h2>
     </Container>
-  );
+  )
 }

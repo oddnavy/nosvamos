@@ -14,6 +14,7 @@ location:
 coverImage: DSCF5006-e1359651319906.jpg
 ogImage: DSCF5006-e1359651319906.jpg
 ---
+
 When we heard about some friends visiting a skybar, a rooftop bar at the top of a skyscraper, we immediately decided that would like to do the same. Having heard that this bar in particular was used in the filming of Hangover 2, we decided that this was clearly the place to go.
 
 We spent the day on a mission to acquire some smart trousers for Adam in light of the dress code. We then got all dressed up ready to go and enjoy the incredible city views from the roof top bar, only to be told that going on a Saturday night was a silly idea as the queue would be ridiculous and you have to book in advance, _oh dear._

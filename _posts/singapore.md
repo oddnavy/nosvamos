@@ -20,4 +20,5 @@ location:
 coverImage: DSCF86981.jpg
 ogImage: DSCF86981.jpg
 ---
+
 Just a short visit, with some more nitrogen ice cream.

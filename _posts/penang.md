@@ -21,6 +21,7 @@ location:
 coverImage: DSCF5793.jpg
 ogImage: DSCF5793.jpg
 ---
+
 Following Chinese New Year we decided that Crystal guesthouse wouldn't cut it for the rest of our planned stay in Penang. We got up nice and early had a 20p banana pancake for breakie and headed out on a quest to find more suitable accommodation. More or less all of the many hostels we tried were fully booked, closed for CNY or would not be able to tell us if rooms were available until after check out time. We did not want to end up stranded. Just as we were heading back to give up we tried Stardust Guesthouse. This was basic but much much cleaner, considerably cheaper and we liked the owner he was fun and welcoming. So we made the move.
 
 We spent 3 nights here. Unfortunately due to chinese new year a lot of Penang was shut down for the holiday. However towards the end of our stay we started to notice the city coming back to life.

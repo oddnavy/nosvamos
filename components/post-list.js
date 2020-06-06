@@ -1,4 +1,4 @@
-import PostPreview from "./post-preview";
+import PostPreview from './post-preview'
 
 export default function PostList({ posts, ...props }) {
   return (
@@ -16,5 +16,5 @@ export default function PostList({ posts, ...props }) {
         />
       ))}
     </>
-  );
+  )
 }

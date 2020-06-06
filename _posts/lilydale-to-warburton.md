@@ -19,6 +19,7 @@ location:
 coverImage: DSCF8923.jpg
 ogImage: DSCF8923.jpg
 ---
+
 After a few weeks settling in to the new city, we decided it was time to start exploring Victoria and doing some tourist activities. Our housemates have been fantastic at inviting us to activities and giving us plenty of ideas of things to keep busy.
 
 So early one Saturday morning we headed to the train with our bikes to do a cycling rail trail from Lilydale to Warburton. It was about one hour on the train from central Melbourne and the trail is really easy to get on to at the other end.

@@ -1,6 +1,6 @@
-import "../styles/index.css";
+import '../styles/index.css'
 
-import { CloudinaryContext } from "cloudinary-react";
+import { CloudinaryContext } from 'cloudinary-react'
 
 export default function MyApp({ Component, pageProps }) {
   return (
@@ -9,5 +9,5 @@ export default function MyApp({ Component, pageProps }) {
     >
       <Component {...pageProps} />
     </CloudinaryContext>
-  );
+  )
 }

@@ -21,6 +21,7 @@ location:
 coverImage: DSCF2024.jpg
 ogImage: DSCF2024.jpg
 ---
+
 _Another day, another driver and plenty more miles._
 
 Having been distracted on our way to Sigiriya, we took a slight detour into a spice garden and had a free tour, resulting in an impromptu and unanticipated slightly awkward massage. Whilst stood in a shack following the tour I was fiercely instructed to remove my shirt and lie down on a wood bench. As soon as I did so a burly man began massaging using [Ayurvedic](http://en.wikipedia.org/wiki/Ayurveda) red oil, which is used to help arthritis and joint complaints, something I've not often had problems with.

@@ -15,6 +15,7 @@ location:
 coverImage: DSCF0709.jpg
 ogImage: DSCF0709.jpg
 ---
+
 _This is a bit belated due to a serious lack of Internet in Nepal/we've been very busy on the tour- lots of activities and new experiences every day._
 
 Kathmandu was our first destination and was eye-opening to say the least. We were greeted by extreme poverty, rubbish everywhere and a completely different quality of life which, although we anticipated, was still quite shocking.

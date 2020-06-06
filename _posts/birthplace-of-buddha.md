@@ -14,4 +14,5 @@ location:
 coverImage: DSCF11941.jpg
 ogImage: DSCF11941.jpg
 ---
+
 One of the three key Buddhist pilgrimage sites, the birthplace of Buddha sits in Lumbini. Filled with bright saffron-coloured robes, prayer flags, monasteries and temples.

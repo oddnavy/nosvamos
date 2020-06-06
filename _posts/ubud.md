@@ -24,6 +24,7 @@ location:
 coverImage: DSCF8011.jpg
 ogImage: DSCF8011.jpg
 ---
+
 Oh my goodness what a journey- walking, ferries, a scary car journey, overnight outside an airport, fly, wait, fly, taxi, and finally hiking up a steep hill all in 24 hours and with no sleep. Finally We arrived at our lovely charity run guesthouse in the middle of some stunning paddy fields with the lovely spanish owner, great opportunity for me practice!
 
 After settling in and a quick nap we set about organising our week or so in Bali. We'd originally intended to skip Bali itself and go directly to the Gili Islands but after doing a bit of research online it seemed like it was going to cost far to much for just a few days there. However after speaking to owner of the guesthouse, it became apparent that buying tickets is a lot cheaper on the island. So the plans changed and we made the decision to just spend 3 days in Ubud, central Bali then head over to Gili Meno.

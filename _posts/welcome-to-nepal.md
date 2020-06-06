@@ -12,6 +12,7 @@ location:
 coverImage: DSCF0659.jpg
 ogImage: DSCF0659.jpg
 ---
+
 Touchdown in our first destination, Kathmandu. Relieved to be reunited with our bags after a slight mishap in Delhi.
 
 **N**ever **E**nding **P**eace **A**nd **L**ove

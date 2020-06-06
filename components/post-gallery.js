@@ -1,4 +1,4 @@
-import { Image, Transformation } from "cloudinary-react";
+import { Image, Transformation } from 'cloudinary-react'
 
 export default function PostGallery({ images }) {
   return (
@@ -26,5 +26,5 @@ export default function PostGallery({ images }) {
         </div>
       ))}
     </div>
-  );
+  )
 }

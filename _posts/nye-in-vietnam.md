@@ -21,4 +21,5 @@ location:
 coverImage: DSCF3407.jpg
 ogImage: DSCF3407.jpg
 ---
+
 New Years Eve this year was celebrated on a sleeper train travelling from Ho Chi Min city to Nha Trang. We had a luxurious meal pre-boarding in a Korean fried chicken shop. Once on the train we threw a little party in our cabin with copious amounts of gin, vodka, mint, lime and some unusual fruit juices. We also splashed out and bought what we believed to be a Russian Champagne, however it turned out to be a horrible sparkling red wine, we drank it anyway.

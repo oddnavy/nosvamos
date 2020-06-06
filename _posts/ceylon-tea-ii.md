@@ -15,4 +15,5 @@ location:
 coverImage: DSCF19621.jpg
 ogImage: DSCF19621.jpg
 ---
+
 A couple more snaps taken on our day in the hill country.

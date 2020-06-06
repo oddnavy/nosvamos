@@ -14,6 +14,7 @@ location:
 coverImage: 2013-01-27-10.20.30.jpg
 ogImage: 2013-01-27-10.20.30.jpg
 ---
+
 We went to Ko Tao with no intentions of learning to dive, however on arrival we were sucked in by its prevalence on the island and the fact that is the cheapest place in the world to do it. We ending up doing an open water course at [Sairee cottage](http://www.saireecottagediving.com/) and really enjoyed ourselves. Our instructor Gordon was great and we were both surprised by how much we enjoyed diving itself. After 4 days of semi-hard work we were presented with our diving licenses and we were both keen to dive again.
 
 ** The course itself**

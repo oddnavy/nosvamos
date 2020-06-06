@@ -1,28 +1,28 @@
-import { useRouter } from "next/router";
-import ErrorPage from "next/error";
-import Link from "next/link";
-import Head from "next/head";
-import { Cloudinary } from "cloudinary-core";
+import { useRouter } from 'next/router'
+import ErrorPage from 'next/error'
+import Link from 'next/link'
+import Head from 'next/head'
+import { Cloudinary } from 'cloudinary-core'
 
-import Container from "../../components/container";
-import PostBody from "../../components/post-body";
-import Header from "../../components/header";
-import PostHeader from "../../components/post-header";
-import Layout from "../../components/layout";
-import { getPostBySlug, getAllPosts } from "../../lib/api";
-import PostTitle from "../../components/post-title";
-import { SITE_NAME } from "../../lib/constants";
-import markdownToHtml from "../../lib/markdownToHtml";
-import PostGallery from "../../components/post-gallery";
+import Container from '../../components/container'
+import PostBody from '../../components/post-body'
+import Header from '../../components/header'
+import PostHeader from '../../components/post-header'
+import Layout from '../../components/layout'
+import { getPostBySlug, getAllPosts } from '../../lib/api'
+import PostTitle from '../../components/post-title'
+import { SITE_NAME } from '../../lib/constants'
+import markdownToHtml from '../../lib/markdownToHtml'
+import PostGallery from '../../components/post-gallery'
 
 var cloudinary = new Cloudinary({
   cloud_name: process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME,
-});
+})
 
 export default function Post({ post, preview }) {
-  const router = useRouter();
+  const router = useRouter()
   if (!router.isFallback && !post?.slug) {
-    return <ErrorPage statusCode={404} />;
+    return <ErrorPage statusCode={404} />
   }
   return (
     <Layout preview={preview}>
@@ -45,9 +45,9 @@ export default function Post({ post, preview }) {
                       {
                         width: 1200,
                         height: 630,
-                        crop: "fill",
-                        gravity: "faces",
-                        quality: "auto",
+                        crop: 'fill',
+                        gravity: 'faces',
+                        quality: 'auto',
                       }
                     )}
                     key="og:image"
@@ -78,22 +78,22 @@ export default function Post({ post, preview }) {
         </>
       )}
     </Layout>
-  );
+  )
 }
 
 export async function getStaticProps({ params }) {
   const post = getPostBySlug(params.slug, [
-    "title",
-    "date",
-    "slug",
-    "author",
-    "content",
-    "ogImage",
-    "location",
-    "coverImage",
-    "images",
-  ]);
-  const content = await markdownToHtml(post.content || "");
+    'title',
+    'date',
+    'slug',
+    'author',
+    'content',
+    'ogImage',
+    'location',
+    'coverImage',
+    'images',
+  ])
+  const content = await markdownToHtml(post.content || '')
 
   return {
     props: {
@@ -102,11 +102,11 @@ export async function getStaticProps({ params }) {
         content,
       },
     },
-  };
+  }
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(["slug"]);
+  const posts = getAllPosts(['slug'])
 
   return {
     paths: posts.map((posts) => {
@@ -114,8 +114,8 @@ export async function getStaticPaths() {
         params: {
           slug: posts.slug,
         },
-      };
+      }
     }),
     fallback: false,
-  };
+  }
 }

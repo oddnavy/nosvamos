@@ -21,6 +21,7 @@ location:
 coverImage: DSCF3495.jpg
 ogImage: DSCF3495.jpg
 ---
+
 Once I was suited and booted we went for a sneaky 15p beer by the riverside in this pretty UNESCO world heritage site before hitting the cooking school. At the class we learned how to make delicious spring rolls- fresh and fried, a refreshing green papaya salad, and fresh tuna steak cooked traditionally in banana leaf. We also learnt about 'balancing' flavours, knife technique and various other tips.
 
 The next day we went on a cycle ride through the surrounding paddy fields and countryside, Carman did a spot of watering on a farm and we both (Carman took some gentle persuasion) rode a water buffalo through a flooded field.

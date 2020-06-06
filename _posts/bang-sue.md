@@ -26,6 +26,7 @@ location:
 coverImage: DSCF2476.jpg
 ogImage: DSCF2476.jpg
 ---
+
 Having set our expectations for Bangkok low, we were pleasantly surprised by what we found - the city was modern, clean and lovely. Getting around on the metro was extremely cheap and easy and avoided the stress of taxis.
 
 During our time in Bangkok we visited the largest reclining Buddha, China Town by night and did a spot of shopping. We also wandered around the Bangkok Art and Cultural Centre and encountered a hundreds of local Thai people dressed up in crazy costumes. It seemed to be some sort of event as they were all taking pictures of each other, no idea what it was, but very entertaining nonetheless.

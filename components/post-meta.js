@@ -1,4 +1,4 @@
-import DateFormatter from "./date-formatter";
+import DateFormatter from './date-formatter'
 
 export default function PostMeta({ date, location }) {
   return (
@@ -11,5 +11,5 @@ export default function PostMeta({ date, location }) {
         </>
       )}
     </div>
-  );
+  )
 }

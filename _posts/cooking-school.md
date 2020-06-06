@@ -16,6 +16,7 @@ location:
 coverImage: DSCF4887.jpg
 ogImage: DSCF4887.jpg
 ---
+
 This was our second cooking school experience on the Indochina loop and was significantly better than the first. We had a nice small class of only 7 students, we each got to pick exactly which dishes we wanted to cook and then we got to cook it from scratch ourselves.
 
 Despite the fact that the class started at 9.00 and we were eating large meals by 10.30 it didn't seem to be a problem and we slowly made our way through the various courses with nice chats in-between each dish with the group and our chef.

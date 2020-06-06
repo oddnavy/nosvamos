@@ -21,6 +21,7 @@ location:
 coverImage: DSCF0817.jpg
 ogImage: DSCF0817.jpg
 ---
+
 On arrival at the stunning Chitwan National Park we were able to enjoy a brief spell of relaxation, cut short by the introductory talk. This highlighted the extreme danger we were about to subject ourselves to by exploring the jungle on foot in the presence of monkeys, deer, rhinos, tigers, wild elephants, crocodiles and sloth bears.
 
 Thankfully we survived and were able to enjoy a beautiful evening  in a small village deep in the jungle with delightful homemade Nepalese cuisine. This was followed by a roaring campfire and great chat.

@@ -19,4 +19,5 @@ location:
 coverImage: DSCF4808.jpg
 ogImage: DSCF4808.jpg
 ---
+
 During our short stay in Chiang Mai we dragged ourselves up umpteen steps to view the delightful views of the city from this impressive temple.

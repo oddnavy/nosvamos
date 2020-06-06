@@ -16,4 +16,5 @@ location:
 coverImage: DSCF3477.jpg
 ogImage: DSCF3477.jpg
 ---
+
 Today, like many other tourists in the quaint town of Hoi An, I purchased my first tailored suit.

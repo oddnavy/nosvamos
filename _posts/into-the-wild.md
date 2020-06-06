@@ -26,6 +26,7 @@ location:
 coverImage: DSCF7404.jpg
 ogImage: DSCF7404.jpg
 ---
+
 Onwards to Bukit Lawang, this small town has grown around the ever expanding number of tourists hoping to see some of the few remaining Sumatran Orangutan in the wild. As soon as you arrive you are bombarded by guides hoping to get your business, which isn't great when you are trying to eat dinner. So we told them to bugger off and leave us to eat in peace. We had already spoke to the guesthouse about recommending a guide so we were fairly content to wait and see what that guide was like before signing up with anyone else.
 
 The guide, Abdul, turned out to be a great guy. He was much more relaxed the other previous guides we spoke to and was much less aggressive at selling it services, so we happily signed up for a 2 day trek with one night camping in the jungle and rafting down the river to get back to town. It's possible to do much longer in the jungle (7 days+) but we decided to test the water to see if we liked it or not first.

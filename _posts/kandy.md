@@ -21,6 +21,7 @@ location:
 coverImage: DSCF2166.jpg
 ogImage: DSCF2166.jpg
 ---
+
 For our last day in the hill country we decided to stay in Kandy and do a bit of exploring. We visited the botanical gardens, the famous Temple of the Tooth (of Buddha) and saw some impressive local dancing and fire walking.
 
 We stayed in a lovely hotel/guesthouse whilst in Kandy called the [Clove Garden Hotel](http://www.tripadvisor.com/Hotel_Review-g304138-d2258645-Reviews-Clove_Garden_Kandy_City-Kandy_Kandy_District_Central_Province.html) with really welcoming and helpful owners which we would definitely recommend.

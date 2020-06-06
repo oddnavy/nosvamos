@@ -1,6 +1,6 @@
-import CoverImage from "../components/cover-image";
-import PostTitle from "../components/post-title";
-import PostMeta from "./post-meta";
+import CoverImage from '../components/cover-image'
+import PostTitle from '../components/post-title'
+import PostMeta from './post-meta'
 
 export default function PostHeader({ title, coverImage, date, location }) {
   return (
@@ -13,5 +13,5 @@ export default function PostHeader({ title, coverImage, date, location }) {
         <CoverImage title={title} src={coverImage} />
       </div>
     </>
-  );
+  )
 }
