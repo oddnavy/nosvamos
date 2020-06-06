@@ -1,6 +1,6 @@
 # Nos Vamos
 
-A statically generated blog using Next.js and Markdown
+A statically generated travel blog built with Next.js and Markdown
 
 This showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using markdown files as the data source.
 
