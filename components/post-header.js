@@ -10,7 +10,7 @@ export default function PostHeader({ title, coverImage, date, location }) {
         <PostMeta date={date} location={location} />
       </div>
       <div className="mb-8 md:mb-16">
-        <CoverImage title={title} src={coverImage} />
+        <CoverImage title={title} src={coverImage} hasImagePriority />
       </div>
     </>
   )
