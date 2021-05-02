@@ -1,9 +1,15 @@
 import cn from 'classnames'
 import Link from 'next/link'
+import Image from 'next/image'
 
 import cloudinary from '../lib/cloudinary'
 
-export default function CoverImage({ title, src, slug }) {
+export default function CoverImage({
+  title,
+  src,
+  slug,
+  hasImagePriority = false,
+}) {
   const cloudinaryImage = cloudinary.imageTag(
     `${process.env.NEXT_PUBLIC_CLOUDINARY_FOLDER}/${src}`,
     {
@@ -20,7 +26,7 @@ export default function CoverImage({ title, src, slug }) {
   )
 
   const image = src ? (
-    <img
+    <Image
       className={cn('w-full shadow-small', {
         'hover:shadow-medium transition-shadow duration-200': slug,
       })}
@@ -30,12 +36,13 @@ export default function CoverImage({ title, src, slug }) {
       alt={title}
       width="1280"
       height="960"
-      loading="lazy"
+      unoptimized
+      priority={hasImagePriority}
     />
   ) : null
 
   return (
-    <div className="-mx-4 lg:-mx-10">
+    <div className="-mx-4 lg:-mx-10 bg-gray-200">
       {slug ? (
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
           <a aria-label={title}>{image}</a>
