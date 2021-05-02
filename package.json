@@ -7,22 +7,22 @@
     "start": "next start"
   },
   "dependencies": {
-    "@tailwindcss/typography": "^0.3.0",
-    "autoprefixer": "^10.1.0",
+    "@tailwindcss/typography": "^0.4.0",
     "classnames": "2.2.6",
     "cloudinary-core": "^2.11.3",
     "date-fns": "^2.16.0",
     "gray-matter": "4.0.2",
     "lodash": "^4.17.20",
     "next": "^10.2.0",
-    "postcss": "^8.2.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "remark": "^13.0.0",
-    "remark-html": "10.0.0",
-    "tailwindcss": "^2.0.2"
+    "remark-html": "10.0.0"
   },
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "prettier": "^2.2.1",
+    "tailwindcss": "^2.1.2"
   }
 }
