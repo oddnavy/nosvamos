@@ -1,4 +1,4 @@
-import cn from 'classnames'
+import clsx from 'clsx'
 import Link from 'next/link'
 import Image from 'next/image'
 
@@ -27,7 +27,7 @@ export default function CoverImage({
 
   const image = src ? (
     <Image
-      className={cn('w-full shadow-small', {
+      className={clsx('w-full shadow-small', {
         'hover:shadow-medium transition-shadow duration-200': slug,
       })}
       src={cloudinaryImage.getAttr('src')}
