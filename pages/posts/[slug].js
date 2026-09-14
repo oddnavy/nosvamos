@@ -61,14 +61,15 @@ export default function Post({ post, preview }) {
               {post.images.length > 1 && <PostGallery images={post.images} />}
             </article>
           </Container>
-          <div className="py-8 border-t border-accent-2 text-center text-xl">
-            <Link href="/">
-              <a className="group transition-all duration-100 hover:text-orange-600">
-                Read another
-                <span className="inline-block ml-1 transition-transform duration-100 transform group-hover:translate-x-1">
-                  →
-                </span>
-              </a>
+          <div className="py-8 border-t border-gray-200 text-center text-xl">
+            <Link
+              href="/"
+              className="group transition-all duration-100 hover:text-orange-600"
+            >
+              Read another
+              <span className="inline-block ml-1 transition-transform duration-100 transform group-hover:translate-x-1">
+                →
+              </span>
             </Link>
           </div>
         </>
