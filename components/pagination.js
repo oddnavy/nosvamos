@@ -8,13 +8,14 @@ export default function Pagination({ prevPage, nextPage }) {
         <ul className="flex justify-between text-xl">
           <li>
             {prevPage ? (
-              <Link href={prevPage === 1 ? '/' : `/page/${prevPage}`}>
-                <a className="block py-4 group transition-all duration-100 hover:text-orange-600">
-                  <span className="inline-block ml-1 transition-transform duration-100 transform group-hover:-translate-x-1">
-                    ←
-                  </span>
-                  Previous
-                </a>
+              <Link
+                href={prevPage === 1 ? '/' : `/page/${prevPage}`}
+                className="block py-4 group transition-all duration-100 hover:text-orange-600"
+              >
+                <span className="inline-block ml-1 transition-transform duration-100 transform group-hover:-translate-x-1">
+                  ←
+                </span>
+                Previous
               </Link>
             ) : (
               <span className="block py-4 text-gray-500">
@@ -24,13 +25,14 @@ export default function Pagination({ prevPage, nextPage }) {
           </li>
           <li>
             {nextPage ? (
-              <Link href={`/page/${nextPage}`}>
-                <a className="block py-4 group transition-all duration-100 hover:text-orange-600">
-                  Next
-                  <span className="inline-block ml-1 transition-transform duration-100 transform group-hover:translate-x-1">
-                    →
-                  </span>
-                </a>
+              <Link
+                href={`/page/${nextPage}`}
+                className="block py-4 group transition-all duration-100 hover:text-orange-600"
+              >
+                Next
+                <span className="inline-block ml-1 transition-transform duration-100 transform group-hover:translate-x-1">
+                  →
+                </span>
               </Link>
             ) : (
               <span className="block py-4 text-gray-500">
